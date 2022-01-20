@@ -1,4 +1,4 @@
-# Get Books!
+# BOOK VERSE!
 
 A simple android app that helps you keep your favorite books in one place! It uses the firebase data base to get all the data.
 
@@ -11,7 +11,12 @@ A simple android app that helps you keep your favorite books in one place! It us
 
 
 
-https://user-images.githubusercontent.com/78440822/150188933-f892a1e7-9691-4ea3-8f2d-43c5a3e5648c.mp4
+
+
+
+
+https://user-images.githubusercontent.com/78440822/150290308-4fd64f51-5402-457c-ab4a-8cc9c98e8391.mp4
+
 
  
 
